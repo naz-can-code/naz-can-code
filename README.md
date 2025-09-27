@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Naz
 
-<!--
-**naz-can-code/naz-can-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Data enthusiast & SQL Lover
+- Love building dashboards and analytics projects
+- Passionate about learning and sharing tech knowledge
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📊 Analytical Skills and Experience
+- **Power BI & DAX:** Time intelligence calculations, data storytelling (color theory, chart selection, narrative building), Power Query for backend data transformation, Power BI Service for dashboard automation & publishing.  
+- **SQL:** Data uploads, semi-automating workflows with advanced queries, understanding data warehouse structures, constraints, and architecture.  
+- **Excel:** Advanced user, automating tasks with VBA macros, leveraging complex formulas to streamline daily operations.  
+- **Statistics & Machine Learning:** Linear Regression, Decision Trees, Random Forest for forecasting.  
+- **Domain Expertise:** Supply Chain Management (inventory, forecasting, demand planning, retail), Marketing, and Finance. 🚀  
+
+---
+## 🤝 Connect with Me
+- [LinkedIn]( https://www.linkedin.com/in/nazishkhalid11/)
+
+
+## 🛠️ Languages and Tools:
+
+     
